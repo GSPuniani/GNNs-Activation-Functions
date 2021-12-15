@@ -1,0 +1,4 @@
+# Activation Functions in Graph Neural Networks
+<i>ACS 4511: Final Project</i>
+
+Activation functions are often overlooked the tuning of hyperparameters in neural networks. Most deep learning researchers and engineers simply use the most popular activation functions, such as ReLU, without much consideration. In my senior capstone project, I investigated the performance of five different activation functions (ReLU, Swish, Mish, TAct, and mTAct) in many different neural network architectures in the context of image classification. In this project, I continue the investigation into the performance of activation functions -- but now in the context of graph neural network architectures. The task is a relatively simple binary classification using a molecular odor dataset. After running three trials for each activation function, it seems that all of the five activation functions performed roughly the same in test accuracy in this task.
